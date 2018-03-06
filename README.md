@@ -17,3 +17,5 @@ git@github.com:khirshah/teaching-Rstatistics-1.git
 path-to-teaching-Rstatistics-1/RCourse-1.R
 
 ```
+## Lecture content
+Introduction to R language, data types, distributions and their attributes (mean, median, quartiles etc..)
