@@ -1,5 +1,5 @@
 #################### set working directory ##################################
-setwd("/media/store/works/teaching/biostatisztika/bevezeto")
+setwd("/path-to-your-directory")
 dir()
 
 ###################### use as calculator ############################
