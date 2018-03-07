@@ -1,21 +1,19 @@
 # teaching-Rstatistics-1
 
-1st part of a lecture series of 6
+The codes for a lecture series I held at uni in 2012, while teaching statistics to biology students. Contains all the basic things to know about data types, distributions and basic statistics, like t-tests, ANOVA and regression analysis.
 
 ## Pre-requisite
 R Studio Version 1.0.153
 
 ## Install 
 ```
-git@github.com:khirshah/teaching-Rstatistics-1.git
+git@github.com:khirshah/teaching-Rstatistics.git
 
 ```     
 
 ## Run
 ```
 
-path-to-teaching-Rstatistics-1/RCourse-1.R
+path-to-teaching-Rstatistics/RCourse-[0-6].R
 
 ```
-## Lecture content
-Introduction to R language, data types, distributions and their attributes (mean, median, quartiles etc..)
